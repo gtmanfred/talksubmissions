@@ -30,4 +30,4 @@ And how they can be used in the real world.
 
 # Submitted to
 
-* PyBay 2019
+* PyBay 2019 - accepted
